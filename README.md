@@ -4,6 +4,8 @@ I'm pursuing an **M.S. in CSIE at National Taiwan University**, studying at the 
 
 I'm interested in **researching and building AI agent systems**, with prior work in GNN-enhanced tabular learning at National Cheng Kung University.
 
+📫 [Get in touch](mailto:r15944021@csie.ntu.edu.tw)
+
 ## 🔬 Ongoing
 
 - **Conversational recommender systems** — Exploring recommendation through user interaction.
@@ -33,5 +35,3 @@ I'm interested in **researching and building AI agent systems**, with prior work
 
 ![Cython](https://img.shields.io/badge/Cython-007ACC?style=flat-square)
 ![vLLM](https://img.shields.io/badge/vLLM-7C3AED?style=flat-square)
-
-📫 [Get in touch](mailto:r15944021@csie.ntu.edu.tw)
