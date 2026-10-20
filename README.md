@@ -1,6 +1,6 @@
 # Cheng-You Hou
 
-I'm pursuing an **M.S. in CSIE at National Taiwan University**, studying at the Graduate Institute of Networking and Multimedia and working with **Prof. Shou-De Lin in MSLab**.
+I'm pursuing an **M.S. in CS at National Taiwan University**, studying at the Graduate Institute of Networking and Multimedia and working with **Prof. Shou-De Lin in MSLab**.
 
 I'm interested in **researching and building AI agent systems**, with prior work in GNN-enhanced tabular learning at National Cheng Kung University.
 
