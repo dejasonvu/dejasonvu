@@ -9,12 +9,14 @@ I'm interested in **researching and building AI agent systems**, with prior work
 ## 🔬 Ongoing
 
 - **Conversational recommender systems** — Exploring recommendation through user interaction.
-- **AI-assisted financial analysis** — Exploring stock-movement analysis and ETF portfolio construction.
+- **AI-assisted financial analysis** — Exploring stock-movement analysis.
+- **AI CUP 2026 · E.SUN AI Challenge** — Participating in the ETF portfolio construction challenge using AI agents.
 
 ## 🛠️ Things I've worked on
 
 - **GNN-Transformer** — Augmenting ExcelFormer with graph neural networks to capture relationships between data rows.
-- **Anti-Scam Agent** — Co-developed a system that combines website browsing and analysis agents to assess risk without relying on blacklists.
+- **Audio Scribe** — Designed an [agent skill](https://github.com/dejasonvu/audio-scribe) for lecture transcription, terminology correction, and structured reporting, enabling agents to answer questions based on transcripts and external materials.
+- **Anti-Scam Agent** — Contributed to a website risk assessment project combining browsing and analysis agents without relying on blacklists.
 
 ## ⚙️ How I build
 
